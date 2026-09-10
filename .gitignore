@@ -1,3 +1,4 @@
+#Archivos Generados
 *.log
 .vscode.
 .DS_Store
@@ -5,3 +6,12 @@ Thumbs.bd
 .env
 /tmp
 ReadmeInstall.md
+
+#Node JS
+node_modules/
+.env
+dist/
+build/
+npm-debug.log*
+
+
